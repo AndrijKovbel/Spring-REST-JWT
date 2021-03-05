@@ -1,2 +1,2 @@
-# Spring_Security-REST-JWT
+# Spring-REST-JWT
 Securing REST using JWT and Spring Security
